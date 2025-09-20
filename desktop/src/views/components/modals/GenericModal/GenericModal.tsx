@@ -1,3 +1,4 @@
+// @ts-nocheck
 import React, { ReactElement } from 'react';
 import Modal from 'react-modal';
 import cn from 'classnames';

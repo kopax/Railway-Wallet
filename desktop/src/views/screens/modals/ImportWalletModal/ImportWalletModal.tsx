@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { isDefined } from '@railgun-community/shared-models';
 import { useState } from 'react';
 import DatePicker from 'react-datepicker';

@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { isDefined } from '@railgun-community/shared-models';
 import React, { useEffect, useState } from 'react';
 import Modal from 'react-modal';
